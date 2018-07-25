@@ -1,1 +1,0 @@
-{"id":"b650b759-1276-4aea-acf7-9760fd946601","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"bnisdemo.cust-onboarding","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
